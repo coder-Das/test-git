@@ -1,1 +1,1 @@
-print("hwe")
+print("h")
